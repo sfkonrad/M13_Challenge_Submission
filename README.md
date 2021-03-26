@@ -1,4 +1,4 @@
-# [M13_Challenge_Submission](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submission/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
+# [M13_Challenge_Submission](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
 
 
 

@@ -1,9 +1,6 @@
-# [M13_Challenge_Submission](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
+# [Module 13_Challenge_Submission](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
 
-
-
-
-#### Konrad Kozicki
+##### Konrad Kozicki
 ### UCB-VIRT-FIN-PT-12-2020-U-B-TTH
 ---
 

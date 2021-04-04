@@ -175,10 +175,10 @@ loss: 0.1893 - accuracy: 0.7247
 - CLASSIFICATION
 loss: 0.1938 - accuracy: 0.7242
 
--APPLICATION_TYPE
+* - APPLICATION_TYPE
 loss: 0.1939 - accuracy: 0.7117
 
--AFFILIATION
+* - AFFILIATION
 Loss: 0.2114, Accuracy: 0.6606
 
 

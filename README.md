@@ -78,11 +78,11 @@ To do so, we completed the following steps:
 
 ### Optimize the Neural Network Model
 
-Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we were required to demonstrate at least two attempts to optimize the model. We included these attempts in our existing notebook as [Alternative Models](). We also made copies of the starter notebook in the same folder, renamed them, and coded models for optimization in supplemental notebooks. 
+Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we were required to demonstrate at least two attempts to optimize the model. We included these attempts in our existing notebook as [Alternative Models](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources). We also made copies of the starter notebook in the same folder, renamed them, and coded models for optimization in supplemental notebooks. 
 
    > **📝 Note** 
    > 
-   > We did not have points deducted if our models don't achieve an improved accuracy, as long as we made at least two [attempts to optimize]() the model.
+   > We did not have points deducted if our models don't achieve an improved accuracy, as long as we made at least two [attempts to optimize](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources/Alt_Models) the model.
 
 To do so, we completed the following steps:
 
@@ -104,7 +104,7 @@ To do so, we completed the following steps:
 
 2. After completing our models, we display the accuracy scores achieved by each model, and compare the results.
 
-3. Saved each of [our models as an HDF5]() file.
+3. Saved each of [our models as an HDF5](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources) file.
 
 
 

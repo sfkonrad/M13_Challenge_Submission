@@ -9,7 +9,7 @@
 
 ---
 ---
-        ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
+>>>>>> ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
 
 
 

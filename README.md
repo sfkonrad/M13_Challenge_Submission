@@ -80,7 +80,7 @@ To do so, we completed the following steps:
 
 Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we were required to demonstrate at least two attempts to optimize the model. We included these attempts in our existing notebook as [Alternative Models](). We also made copies of the starter notebook in the same folder, renamed them, and coded models for optimization in supplemental notebooks. 
 
-    > **Note** we did not have points deducted if our models don't achieve an improved accuracy, as long as we made at least two [attempts to optimize]() the model.
+   > **Note** we did not have points deducted if our models don't achieve an improved accuracy, as long as we made at least two [attempts to optimize]() the model.
 
 To do so, we completed the following steps:
 

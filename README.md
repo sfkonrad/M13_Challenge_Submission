@@ -9,8 +9,7 @@
 
 ---
 ---
-
-![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg) ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
+>>>> ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
 
 
 
@@ -30,6 +29,10 @@ The steps for this challenge are broken out into the following sections:
 * [Compile and evaluate a binary classification model using a neural network](https://github.com/sfkonrad/M13_Challenge_Submission#compile-and-evaluate-a-binary-classification-model-using-a-neural-network)
 
 * [Optimize the neural network model](https://github.com/sfkonrad/M13_Challenge_Submission#optimize-the-neural-network-model)
+
+
+
+>>>>> ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg) 
 
 ---
 

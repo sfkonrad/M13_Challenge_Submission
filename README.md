@@ -45,9 +45,9 @@ Using the corresponding starter code file, we completed the following data prepa
 
 4. Add the original DataFrame’s numerical variables to the DataFrame containing the encoded variables.
 
-> **📝 Note** 
-> 
-> To complete this step, we employed the Pandas `concat()` function. 
+    > **📝 Note** 
+    >  
+    > To complete this step, we employed the Pandas `concat()` function.
 
 5. Using the preprocessed data, we created the features (`X`) and target (`y`) datasets. The target dataset was defined by the preprocessed DataFrame column “IS_SUCCESSFUL”. The remaining columns are defined by the features dataset. 
 

@@ -58,33 +58,34 @@ Using the corresponding starter code file, we completed the following data prepa
 
 ### Compile and Evaluate a Binary Classification Model Using a Neural Network
 
-We proceede to use our knowledge of TensorFlow to design a binary classification deep neural network model. This model encodes the dataset’s features to predict whether an Alphabet Soup funded startup will be successful based on the features in the dataset. We considered the number of inputs before determining the number of layers that our model will contain or the number of neurons on each layer. Then, compile and fit our model. Finally, evaluate our binary classification model to calculate the model’s loss and accuracy. 
+We proceeded to use our knowledge of TensorFlow to design a binary classification deep neural network model. This model encodes the dataset’s features to predict whether an Alphabet Soup funded startup will be successful based on the features in the dataset. We considered the number of inputs before determining the number of layers that our model will contain or the number of neurons on each layer. Next, we compiled and fit our model. Finally, we evaluated our binary classification model by calculated the models' loss and accuracy. 
  
-To do so, complete the following steps:
+To do so, we completed the following steps:
 
-1. Create a deep neural network by assigning the number of input features, the number of layers, and the number of neurons on each layer using Tensorflow’s Keras.
+1. Created a deep neural network by assigning the number of input features, the number of layers, and the number of neurons on each layer using Tensorflow’s Keras.
 
-> **Hint** we can start with a two-layer deep neural network model that uses the `relu` activation function for both layers.
+2. Compiled and fit the Original Model using the `binary_crossentropy` loss function, the `adam` optimizer, and the `accuracy` evaluation metric.
 
-2. Compile and fit the model using the `binary_crossentropy` loss function, the `adam` optimizer, and the `accuracy` evaluation metric.
+3. Evaluated the model using the test data to determine the model’s loss and accuracy.
 
-> **Hint** When fitting the model, start with a small number of epochs, such as 20, 50, or 100.
+4. Saved and export our model to an HDF5 file, and name the file `AlphabetSoup.h5`. 
 
-3. Evaluate the model using the test data to determine the model’s loss and accuracy.
 
-4. Save and export our model to an HDF5 file, and name the file `AlphabetSoup.h5`. 
+
+---
 
 ### Optimize the Neural Network Model
 
-Using our knowledge of TensorFlow and Keras, optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we'll need to demonstrate at least two attempts to optimize the model. we can include these attempts in our existing notebook. Or, we can make copies of the starter notebook in the same folder, rename them, and code each model optimization in a new notebook. 
+Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we were required to demonstrate at least two attempts to optimize the model. We included these attempts in our existing notebook as [Alternative Models](). We also made copies of the starter notebook in the same folder, renamed them, and coded models for optimization in supplemental notebooks. 
 
-> **Note** we will not lose points if our model does not achieve a high accuracy, as long as we make at least two attempts to optimize the model.
+    > **Note** we did not have points deducted if our models don't achieve an improved accuracy, as long as we made at least two [attempts to optimize]() the model.
 
-To do so, complete the following steps:
+To do so, we completed the following steps:
 
-1. Define at least three new deep neural network models (the original plus 2 optimization attempts). With each, try to improve on our first model’s predictive accuracy.
+1. Defined at least three new deep neural network models (the original plus 2 optimization attempts). With each, attempting to improve on our first model’s predictive accuracy.
 
-> **Rewind** Recall that perfect accuracy has a value of 1, so accuracy improves as its value moves closer to 1. To optimize our model for a predictive accuracy as close to 1 as possible, we can use any or all of the following techniques:
+    > **📝 Note** 
+    > Recall that perfect accuracy has a value of 1, therefore accuracy improves as its value moves closer to 1. To optimize our model for a predictive accuracy as close to 1 as possible, we used all of the following techniques:
 >
 > * Adjust the input data by dropping different features columns to ensure that no variables or outliers confuse the model.
 >
@@ -96,6 +97,9 @@ To do so, complete the following steps:
 >
 > * Add to or reduce the number of epochs in the training regimen.
 
-2. After finishing our models, display the accuracy scores achieved by each model, and compare the results.
+2. After completing our models, we display the accuracy scores achieved by each model, and compare the results.
 
-3. Save each of our models as an HDF5 file.
+3. Saved each of [our models as an HDF5]() file.
+
+
+

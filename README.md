@@ -84,7 +84,7 @@ To do so, we completed the following steps:
 
 ### Optimize the Neural Network Model
 
-Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we were required to demonstrate at least two attempts to optimize the model. We included these attempts in our [existing notebook](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb) as Alternative Models. We also made copies of the starter notebook in the same folder, renamed them, and coded models for [optimization in supplemental notebooks](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision). 
+Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we were required to demonstrate at least two attempts to optimize the model. We included these attempts in our [existing notebook](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb) as Alternative Models. We also made copies of the starter notebook in the same folder, renamed them, and coded models for optimization in [supplemental notebooks](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision). 
 
    > **📝 Note** 
    > 

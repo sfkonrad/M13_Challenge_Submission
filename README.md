@@ -10,8 +10,7 @@
 ---
 ---
 
-![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_baseline_comps_0_000.jpg)
-
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg)
 
 
 
@@ -107,12 +106,12 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 > * Add to or reduce the number of epochs in the training regimen.
 
 2. After completing our models, we display the accuracy scores achieved by each model, and compare the results.
+    > ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_baseline_comps_0_000.jpg)
+
 
 3. Saved each of [our models as an HDF5](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources) file.
 
 ---
-
-![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_baseline_comps_0_000.jpg)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_accuracy_000.jpg)
 
@@ -120,9 +119,25 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
 
+
+
+
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_mean_nodes_loss_01.jpg)
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_mean_nodes_accuracy_01.jpg)
+
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_accuracy_01.jpg)
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg)
+
+
 ![image]()
 
 ![image]()
+
+
 
 
 

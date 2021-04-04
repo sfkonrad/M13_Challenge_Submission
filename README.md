@@ -10,6 +10,9 @@
 ---
 ---
 
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_baseline_comps_0_000.jpg)
+
+
 
 
 
@@ -106,6 +109,24 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 2. After completing our models, we display the accuracy scores achieved by each model, and compare the results.
 
 3. Saved each of [our models as an HDF5](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources) file.
+
+---
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_baseline_comps_0_000.jpg)
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_accuracy_000.jpg)
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_000.jpg)
+
+![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
+
+![image]()
+
+![image]()
+
+
+
+
 
 
 

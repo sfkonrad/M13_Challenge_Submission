@@ -17,7 +17,7 @@
 
 
 
-For [this assignment](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb), we've been hired as a risk management associates at Alphabet Soup, a venture capital firm. Alphabet Soup’s business team receives many funding applications from startups every day. This team has asked us to help them create a model that predicts whether applicants will be successful if funded by Alphabet Soup.
+For [this assignment](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb), we've been hired as risk management associates at Alphabet Soup, a venture capital firm. Alphabet Soup’s business team receives many funding applications from startups every day. This team has asked us to help them create a model that predicts whether applicants will be successful if funded by Alphabet Soup.
 
 The business team has provided us with a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. With our knowledge of machine learning and neural networks, we nede to decide which features to use in the provided dataset to create a binary classifier model that will predict whether an applicant will become a successful business. The CSV file contains a variety of information about these businesses, including whether or not they ultimately became successful.
 

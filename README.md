@@ -45,7 +45,7 @@ Using the corresponding starter code file, we completed the following data prepa
 
 4. Add the original DataFrame’s numerical variables to the DataFrame containing the encoded variables.
 
-> **Note** To complete this step, you will employ the Pandas `concat()` function that was introduced earlier in this course. 
+    > **Note** To complete this step, we will employ the Pandas `concat()` function that was introduced earlier in this course. 
 
 5. Using the preprocessed data, create the features (`X`) and target (`y`) datasets. The target dataset should be defined by the preprocessed DataFrame column “IS_SUCCESSFUL”. The remaining columns should define the features dataset. 
 
@@ -64,7 +64,7 @@ To do so, complete the following steps:
 
 1. Create a deep neural network by assigning the number of input features, the number of layers, and the number of neurons on each layer using Tensorflow’s Keras.
 
-> **Hint** You can start with a two-layer deep neural network model that uses the `relu` activation function for both layers.
+> **Hint** we can start with a two-layer deep neural network model that uses the `relu` activation function for both layers.
 
 2. Compile and fit the model using the `binary_crossentropy` loss function, the `adam` optimizer, and the `accuracy` evaluation metric.
 
@@ -76,15 +76,15 @@ To do so, complete the following steps:
 
 ### Optimize the Neural Network Model
 
-Using our knowledge of TensorFlow and Keras, optimize our model to improve the model's accuracy. Even if you do not successfully achieve a better accuracy, you'll need to demonstrate at least two attempts to optimize the model. You can include these attempts in our existing notebook. Or, you can make copies of the starter notebook in the same folder, rename them, and code each model optimization in a new notebook. 
+Using our knowledge of TensorFlow and Keras, optimize our model to improve the model's accuracy. Even if we do not successfully achieve a better accuracy, we'll need to demonstrate at least two attempts to optimize the model. we can include these attempts in our existing notebook. Or, we can make copies of the starter notebook in the same folder, rename them, and code each model optimization in a new notebook. 
 
-> **Note** You will not lose points if our model does not achieve a high accuracy, as long as you make at least two attempts to optimize the model.
+> **Note** we will not lose points if our model does not achieve a high accuracy, as long as we make at least two attempts to optimize the model.
 
 To do so, complete the following steps:
 
 1. Define at least three new deep neural network models (the original plus 2 optimization attempts). With each, try to improve on our first model’s predictive accuracy.
 
-> **Rewind** Recall that perfect accuracy has a value of 1, so accuracy improves as its value moves closer to 1. To optimize our model for a predictive accuracy as close to 1 as possible, you can use any or all of the following techniques:
+> **Rewind** Recall that perfect accuracy has a value of 1, so accuracy improves as its value moves closer to 1. To optimize our model for a predictive accuracy as close to 1 as possible, we can use any or all of the following techniques:
 >
 > * Adjust the input data by dropping different features columns to ensure that no variables or outliers confuse the model.
 >

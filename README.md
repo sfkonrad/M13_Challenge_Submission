@@ -22,11 +22,11 @@ The business team has provided us with a CSV containing more than 34,000 organiz
 
 The steps for this challenge are broken out into the following sections:
 
-* Prepare the data for use on a neural network model.
+* [Prepare the data for use on a neural network model](https://github.com/sfkonrad/M13_Challenge_Submission#prepare-the-data-for-use-on-a-neural-network-model)
 
-* Compile and evaluate a binary classification model using a neural network.
+* [Compile and evaluate a binary classification model using a neural network](https://github.com/sfkonrad/M13_Challenge_Submission#compile-and-evaluate-a-binary-classification-model-using-a-neural-network)
 
-* Optimize the neural network model.
+* [Optimize the neural network model](https://github.com/sfkonrad/M13_Challenge_Submission#optimize-the-neural-network-model)
 
 ---
 

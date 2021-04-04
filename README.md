@@ -100,13 +100,13 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
     >
     > * Adjust the input data by dropping different features columns to ensure that no variables or outliers confuse the model.
     >
-> * Add more neurons (nodes) to a hidden layer.
->
-> * Add more hidden layers.
->
-> * Use different activation functions for the hidden layers.
->
-> * Add to or reduce the number of epochs in the training regimen.
+    > * Add more neurons (nodes) to a hidden layer.
+    >
+    > * Add more hidden layers.
+    >
+    > * Use different activation functions for the hidden layers.
+    >
+    > * Add to or reduce the number of epochs in the training regimen.
 
 2. After completing our models, we display the accuracy scores achieved by each model, and compare the results.
     > ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_baseline_comps_0_000.jpg)

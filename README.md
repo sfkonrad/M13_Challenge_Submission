@@ -127,15 +127,15 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_mean_nodes_loss_01.jpg)
-Image from [M13_Challenge_sandbox_1.41.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.41.ipynb)
+> Image from [M13_Challenge_sandbox_1.41.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.41.ipynb)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_mean_nodes_accuracy_01.jpg)
-Image from [M13_Challenge_sandbox_1.41.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.41.ipynb)
+> Image from [M13_Challenge_sandbox_1.41.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.41.ipynb)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_accuracy_01.jpg)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg)
-Image from [M13_Challenge_sandbox_1.32.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.32.ipynb)
+> Image from [M13_Challenge_sandbox_1.32.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.32.ipynb)
 
 
 

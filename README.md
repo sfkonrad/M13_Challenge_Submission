@@ -97,9 +97,9 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
     > **📝 Note** 
     >  
     > Recall that perfect accuracy has a value of 1, therefore accuracy improves as its value moves closer to 1. To optimize our model for a predictive accuracy as close to 1 as possible, we used all of the following techniques:
->
-> * Adjust the input data by dropping different features columns to ensure that no variables or outliers confuse the model.
->
+    >
+    > * Adjust the input data by dropping different features columns to ensure that no variables or outliers confuse the model.
+    >
 > * Add more neurons (nodes) to a hidden layer.
 >
 > * Add more hidden layers.

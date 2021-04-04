@@ -148,6 +148,38 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 > 
 > Image from [M13_Challenge_sandbox_1.32.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.32.ipynb)
 
+---
+
+## Inverse Relational Response to Dropped Columns
+
+- SPECIAL_CONSIDERATIONS 
+loss: 0.1840 - accuracy: 0.7325
+
+- USE_CASE
+loss: 0.1855 - accuracy: 0.7313
+
+- STATUS
+loss: 0.1843 - accuracy: 0.7306
+
+- ASK_AMT *
+loss: 0.1855 - accuracy: 0.7292
+
+- ALL In 268/268 [===================] - 0s 547us/step - loss: 0.1858 - accuracy: 0.7284
+
+- INCOME_AMT
+loss: 0.1871 - accuracy: 0.7282
+
+- ORGANIZATION
+loss: 0.1893 - accuracy: 0.7247
+
+- CLASSIFICATION
+loss: 0.1938 - accuracy: 0.7242
+
+-APPLICATION_TYPE
+loss: 0.1939 - accuracy: 0.7117
+
+-AFFILIATION
+Loss: 0.2114, Accuracy: 0.6606
 
 
 ---

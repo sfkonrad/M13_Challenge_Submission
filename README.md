@@ -9,7 +9,7 @@
 
 ---
 ---
->>>>>>> ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
+        ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
 
 
 
@@ -32,7 +32,7 @@ The steps for this challenge are broken out into the following sections:
 
 
 
->>>>> ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg) 
+>>>>>> ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg) 
 
 ---
 

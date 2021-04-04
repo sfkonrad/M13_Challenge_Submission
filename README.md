@@ -33,25 +33,25 @@ The steps for this challenge are broken out into the following sections:
 
 ### Prepare the Data for Use on a Neural Network Model 
 
-Using our knowledge of Pandas and scikit-learn’s `StandardScaler()`, we preprocess the dataset in order for us to use it to compile and evaluate the neural network model.
+Using our knowledge of Pandas and scikit-learn’s `StandardScaler()`, we preprocessed the dataset in order for us to use it to compile and evaluate the neural network model.
 
 Using the corresponding starter code file, we completed the following data preparation steps:
 
-1. Read the `applicants_data.csv` file into a Pandas DataFrame. Review the DataFrame, looking for categorical variables that will need to be encoded, as well as columns that could eventually define our features and target variables.   
+1. Read in the `applicants_data.csv` file into a Pandas DataFrame. Reviewed the DataFrame, looking for categorical variables that will need to be encoded, as well as columns that could eventually define our features and target variables.   
 
-2. Drop the “EIN” (Employer Identification Number) and “NAME” columns from the DataFrame, because they are not relevant to the binary classification model.
+2. Dropped the “EIN” (Employer Identification Number) and “NAME” columns from the DataFrame, as they are not relevant to the binary classification model.
  
-3. Encode the dataset’s categorical variables using `OneHotEncoder`, and then place the encoded variables into a new DataFrame.
+3. Encoded the dataset’s categorical variables using `OneHotEncoder`, and then placed the encoded variables into a new DataFrame.
 
 4. Add the original DataFrame’s numerical variables to the DataFrame containing the encoded variables.
 
-    > **Note** To complete this step, we will employ the Pandas `concat()` function that was introduced earlier in this course. 
+    > **Note** To complete this step, we employed the Pandas `concat()` function. 
 
-5. Using the preprocessed data, create the features (`X`) and target (`y`) datasets. The target dataset should be defined by the preprocessed DataFrame column “IS_SUCCESSFUL”. The remaining columns should define the features dataset. 
+5. Using the preprocessed data, we created the features (`X`) and target (`y`) datasets. The target dataset was defined by the preprocessed DataFrame column “IS_SUCCESSFUL”. The remaining columns are defined by the features dataset. 
 
 6. Split the features and target sets into training and testing datasets.
 
-7. Use scikit-learn's `StandardScaler` to scale the features data.
+7. Employed scikit-learn's `StandardScaler` to scale the features data.
 
 
 ---

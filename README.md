@@ -117,10 +117,13 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 ---
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_accuracy_000.jpg)
+> Image from [Module 13 Challenge Submision](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_000.jpg)
+> Image from [Module 13 Challenge Submision](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_loss_00.jpg)
+> Image from [Module 13 Challenge Submision](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
 
 
 
@@ -133,10 +136,10 @@ To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13
 > Image from [M13_Challenge_sandbox_1.41.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.41.ipynb)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_optimizers_accuracy_01.jpg)
+> Image from [Module 13 Challenge Submision](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb)
 
 ![image](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/Documentation/Images/M13C_plot_metrics_01.jpg)
 > Image from [M13_Challenge_sandbox_1.32.ipynb](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_sandbox_1.32.ipynb)
-
 
 
 

@@ -45,7 +45,9 @@ Using the corresponding starter code file, we completed the following data prepa
 
 4. Add the original DataFrame’s numerical variables to the DataFrame containing the encoded variables.
 
-    > **Note** To complete this step, we employed the Pandas `concat()` function. 
+> **📝 Note** 
+> 
+> To complete this step, we employed the Pandas `concat()` function. 
 
 5. Using the preprocessed data, we created the features (`X`) and target (`y`) datasets. The target dataset was defined by the preprocessed DataFrame column “IS_SUCCESSFUL”. The remaining columns are defined by the features dataset. 
 
@@ -85,6 +87,7 @@ To do so, we completed the following steps:
 1. Defined at least three new deep neural network models (the original plus 2 optimization attempts). With each, attempting to improve on our first model’s predictive accuracy.
 
     > **📝 Note** 
+    >  
     > Recall that perfect accuracy has a value of 1, therefore accuracy improves as its value moves closer to 1. To optimize our model for a predictive accuracy as close to 1 as possible, we used all of the following techniques:
 >
 > * Adjust the input data by dropping different features columns to ensure that no variables or outliers confuse the model.

@@ -88,7 +88,7 @@ Using our knowledge of TensorFlow and Keras, we proceeded to optimize our model 
 
    > **📝 Note** 
    > 
-   > We did not have points deducted if our models don't achieve an improved accuracy, as long as we made at least two [attempts to optimize](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources/Alt_Models) the model.
+   > We did not have points deducted if our models didn't achieve an improved accuracy, as long as we made at least two [attempts to optimize](https://github.com/sfkonrad/M13_Challenge_Submission/tree/main/M13_Challenge_Submision/Resources/Alt_Models) the model.
 
 To do so for the [Module 13 Challenge Submision](https://github.com/sfkonrad/M13_Challenge_Submission/blob/main/M13_Challenge_Submision/M13_Challenge_KonradK_venture_funding_with_deep_learning.ipynb), we completed the following steps:
 
